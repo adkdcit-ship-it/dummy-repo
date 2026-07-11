@@ -7,7 +7,7 @@ styledText("Pranali",
             console.log("something went wrong");
             
         }else{
-            console.log(data);
+            console.log(data, `${"This is figlet.js file"}`);
             
         }
     }
